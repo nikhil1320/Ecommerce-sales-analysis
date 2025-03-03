@@ -30,73 +30,71 @@ Project Workflow
 
 1. Data Ingestion & Cleaning (Python)
 
-Load and explore the dataset.
+- Load and explore the dataset.
 
-Handle missing values, remove duplicates, and correct data types.
+- Handle missing values, remove duplicates, and correct data types.
 
-Remove invalid entries (e.g., negative quantities or prices).
+- Remove invalid entries (e.g., negative quantities or prices).
 
-Generate a cleaned dataset for further analysis.
+- Generate a cleaned dataset for further analysis.
 
 
 2. Exploratory Data Analysis (Excel)
 
-Export relevant data from SQL to Excel.
+- Export relevant data from SQL to Excel.
 
-Create pivot tables and charts for:
+- Create pivot tables and charts for:
 
-Monthly/quarterly sales trends.
+- Monthly/quarterly sales trends.
 
-Geographic distribution of customers.
+- Geographic distribution of customers.
 
-Performance by product categories.
+- Performance by product categories.
 
-Highlight key insights such as seasonality and top customer segments
+-  Highlight key insights such as seasonality and top customer segments
 
 
 3. Exploratory Data Analysis & Visualization (Power BI)
 
-Power BI Dashboard Highlights:
+- Power BI Dashboard Highlights:
 
-Sales Metrics: Total sales, quantity sold, number of customers, and average order value.
+-  Sales Metrics: Total sales, quantity sold, number of customers, and average order value.
 
-Sales Trends: Quarterly sales growth with a clear upward trend in Q4.
+-  Sales Trends: Quarterly sales growth with a clear upward trend in Q4.
 
-Top Sales by Country: The United Kingdom leads in sales, followed by the Netherlands, Ireland, Germany, and France.
+-  Top Sales by Country: The United Kingdom leads in sales, followed by the Netherlands, Ireland, Germany, and France.
 
-Top-Selling Products: Identifies high-performing products based on sales volume.
+-  Top-Selling Products: Identifies high-performing products based on sales volume.
 
-Customer Distribution: Shows the concentration of customers across different countries, with the UK having the largest customer base.
+-  Customer Distribution: Shows the concentration of customers across different countries, with the UK having the largest customer base.
 
 
 4. Predictive Modeling (Machine Learning)
 
-Build a classification model to predict repeat purchases.
+-  Build a classification model to predict repeat purchases.
 
-Split data into training and testing sets.
+-  Split data into training and testing sets.
 
-Train models like Logistic Regression, Random Forest 
+-  Train models like Logistic Regression, Random Forest 
 
-Evaluate performance using accuracy, precision, recall, and F1-score.
+-  Evaluate performance using accuracy, precision, recall, and F1-score.
 
 
 Deliverables
 
-Python Scripts/Jupyter Notebooks for data cleaning, analysis, and modeling.
+-  Python Scripts/Jupyter Notebooks for data cleaning, analysis, and modeling.
 
-Power BI Dashboard with interactive visualizations.
+-  Power BI Dashboard with interactive visualizations.
 
-Logistic Regression and RandomForest for training model 
+-  Logistic Regression and RandomForest for training model 
 
 
 Installation & Usage
 
 Prerequisites
 
-Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SQLAlchemy)
+-  Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SQLAlchemy)
 
-SQL Database (SQLite/PostgreSQL)
-
-Power BI (for visualization and dashboards)
+-  Power BI (for visualization and dashboards)
 
  
