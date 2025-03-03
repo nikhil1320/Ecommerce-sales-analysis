@@ -24,7 +24,7 @@ Customer ID (Unique customer identifier)
 
 Country (Customer's location)
 
-eCOMMERCE_DASHBOARD.png
+![E-Commerce Dashboard](eCOMMERCE_DASHBOARD.png)
 
 Project Workflow
 
